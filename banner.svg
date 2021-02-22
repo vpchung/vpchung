@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1140"
+   height="342"
+   viewBox="0 0 1140 342"
+   fill="none"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="banner.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1212"
+     inkscape:window-height="837"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.54836935"
+     inkscape:cx="570"
+     inkscape:cy="203.00535"
+     inkscape:window-x="203"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g14"
+     inkscape:document-rotation="0" />
+  <g
+     clip-path="url(#clip0)"
+     id="g14">
+    <path
+       d="M 369.93344,239.46035 C 224.90309,183.47785 73.657849,252.3456 25.138479,312.91062 l -61.418163,70.04505 21.240891,-518.56516 1218.478293,49.909946 0.8402,394.865224 c -48.6591,-72.85249 -247.62638,-87.50081 -357.74592,-50.18335 -110.11953,37.31745 -331.57,36.46052 -476.60034,-19.52198 z"
+       fill="url(#paint0_linear)"
+       id="path10"
+       style="fill:url(#paint0_linear)" />
+    <text
+       xml:space="preserve"
+       id="text32"
+       style="font-style:normal;font-weight:normal;font-size:64px;line-height:0.9;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect34);fill:#f9f9f9;fill-opacity:1;stroke:none;"
+       x="1108.3501"
+       y="0"
+       transform="translate(145.19011,-11.62032)"><tspan
+         x="196.20724"
+         y="142.71225"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;font-family:'SF Mono';-inkscape-font-specification:'SF Mono Bold';text-align:center;text-anchor:middle">hello world</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:'SF Mono';-inkscape-font-specification:'SF Mono Bold';text-align:center;text-anchor:middle;fill:#f9f9f9">
+</tspan></tspan><tspan
+         x="341.49902"
+         y="201.26026"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'SF Mono';-inkscape-font-specification:'SF Mono Italic';text-align:center;text-anchor:middle">i'm verena!</tspan></tspan></text>
+  </g>
+  <defs
+     id="defs24">
+    <rect
+       x="155.45455"
+       y="86.871658"
+       width="590.02524"
+       height="174.33273"
+       id="rect34" />
+    <linearGradient
+       id="paint0_linear"
+       x1="1214"
+       y1="2.99996"
+       x2="-41"
+       y2="423"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(2.3455749,614.38473,878.12228)">
+      <stop
+         stop-color="#6A4C91"
+         id="stop16" />
+      <stop
+         offset="1"
+         stop-color="#6DA2BF"
+         id="stop18" />
+    </linearGradient>
+    <clipPath
+       id="clip0">
+      <rect
+         width="1140"
+         height="342"
+         fill="white"
+         id="rect21" />
+    </clipPath>
+  </defs>
+</svg>
