@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://github.com/vpchung/vpchung/blob/main/banner.png" alt="hello world, i'm verena"> <br/>
-  <strong>Bioinformatics Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a></strong> <br/>
-  <em>just another python enthusiast on the pursuit towards open science</em> <br/><br/>
 </p>
 
 <p align="center">
@@ -11,7 +9,12 @@
   <a href="https://scholar.google.com/citations?user=kAKvnB8AAAAJ"><img src="https://img.shields.io/badge/-verena--chung-C6002B?style=flat-square&logo=Google-Scholar&logoColor=white"></a> 
 </p>
 
-<table><tr><td valign="top" width="50%">
+<p align="center">
+  <strong>Bioinformatics Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a></strong> <br/>
+  <em>just another python enthusiast on the pursuit towards open science</em> <br/><br/>
+</p>
+
+<table><tr><td valign="center" width="50%">
   
 ```python
 who_am_i = {
@@ -25,7 +28,7 @@ who_am_i = {
 }
 ```
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
   
 ![vpchung's github stats](https://github-readme-stats.vercel.app/api?username=vpchung&hide=stars&show_icons=true&theme=dracula)
 
