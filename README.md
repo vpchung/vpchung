@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vpchung/vpchung/blob/main/banner.svg" alt="hello world, i'm verena"> <br/>
+  <img src="https://github.com/vpchung/vpchung/blob/main/banner.png" alt="hello world, i'm verena"> <br/>
   <strong>Bioinformatics Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a></strong> <br/>
   <em>just another python enthusiast on the pursuit towards open science</em> <br/><br/>
 </p>
