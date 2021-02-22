@@ -27,7 +27,7 @@ who_am_i = {
 
 </td><td valign="top" width="50%">
   
-![vpchung's github stats](https://github-readme-stats.vercel.app/api?username=vpchung&show_icons=true&theme=dracula)
+![vpchung's github stats](https://github-readme-stats.vercel.app/api?username=vpchung&hide=stars&show_icons=true&theme=dracula)
 
   <sup>
   
