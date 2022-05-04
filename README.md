@@ -14,32 +14,6 @@
   <em>just another python enthusiast on the pursuit towards open science</em> <br/><br/>
 </p>
 
-<table><tr><td valign="center" width="50%">
-  
-```python
-who_am_i = {
-  'pronouns': "she/her",
-  'languages': {
-    'proficient': [Python, R, Perl],
-    'basic': Java
-  },
-  'web_dev': [HTML, CSS, JavaScript, jQuery, PHP],
-  'version_control': Git
-}
-```
-
-</td><td valign="center" width="50%">
-  
-![vpchung's github stats](https://github-readme-stats.vercel.app/api?username=vpchung&hide=stars&show_icons=true&theme=dracula)
-
-  <sup>
-  
-  _widget by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)_
-  
-  </sup>
-
-</td></tr></table>
-
 <!--
 **vpchung/vpchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
