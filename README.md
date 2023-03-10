@@ -8,8 +8,10 @@
 </p>
 
 <p align="center">
-  <strong>Bioinformatics Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a></strong> <br/>
-  <em><code>!false</code> - it's funny 'cause it's true.</em>
+  <strong>Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a></strong> <br/>
+  <em>working towards open science, one PR at a time</em> <br/>
+  <br/>
+  Also, am a dog person. Cats are cool too.
 </p>
 
 <!--
