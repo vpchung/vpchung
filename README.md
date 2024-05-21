@@ -11,7 +11,7 @@
   <strong>Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a></strong> <br/>
   <em>working towards open science, one PR at a time</em> <br/>
   <br/>
-  Also, am a dog person. Cats are cool too.
+  I love cats and dogs and telling corny jokes. <code>!false</code> - it's funny 'cause it's true.
 </p>
 
 <!--
